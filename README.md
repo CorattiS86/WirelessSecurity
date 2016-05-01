@@ -1,6 +1,8 @@
 # WirelessSecurity
 
-This project consists in connecting 4 XBee modules, so configured:
+This project is for exam of the course "Pervasive System 2016" - Master of Engineering in Computer Science "La Sapienza"
+
+It consists in connecting 4 XBee modules, so configured:
 - one XBee direct connected to Gas sensor MQ5
 - one XBee direct connected to Flame sensor 
 - one XBee direct connected to Passive Motion sensor
