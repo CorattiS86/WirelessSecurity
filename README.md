@@ -18,4 +18,11 @@ I used these three sensors because it's posible to do a simple simulation,
 just a cigarette lighter to produce gas and flame to be detected, and it's sufficent a movement of our hands 
 to trigger the motion sensor, but the concept is valid for any sensor.
 
-Stefano
+Author
+-----------------
+Coratti Stefano
+
+
+coratti.s86@gmail.com
+
+https://www.linkedin.com/in/stefano-coratti-83005a85/
